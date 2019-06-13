@@ -1,2 +1,2 @@
 # ion
-Sample Application template
+Sample Application Template
